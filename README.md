@@ -1,3 +1,3 @@
 # EX13
-請讓使用者輸入一個數字 n，用 while 迴圈的方式顯示出1 ~ n。  
-輸入數字必為一個正整數。
+請妳建立一個串列，裡面儲存 "apple"、"orange"、"watermelon"，並透過 for迴圈將資料一一分別顯示出來。  
+name = ["apple","orange","watermelon"]
